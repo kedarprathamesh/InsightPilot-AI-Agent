@@ -165,7 +165,6 @@ No templates. No static directories. Fully self-contained.
 
 ### **🚀 From Prompt to Professional Report — All in One Screen**
 
-```
-![InsightPilot Screenshot]()
+![InsightPilot Screenshot](https://github.com/kedarprathamesh/InsightPilot-AI-Agent/blob/main/InsightPilot%20Snap.png)
 
 ---

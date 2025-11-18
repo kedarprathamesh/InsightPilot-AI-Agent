@@ -53,7 +53,7 @@ The entire application—including HTML, CSS, and JavaScript—is embedded insid
 ### 1. **Download or Clone the Project**
 
 ```bash
-git clone https://github.com/kedarprathamesh/InsightPilot-AI-Agent
+git clone https://github.com/kedarprathamesh/InsightPilot-AI-Agent.git
 ```
 
 Or download **`data_analysis_app.py`** directly.

@@ -37,7 +37,7 @@ Automatically identifies and produces:
 
 ### 🗂️ **Single-File Deployment**
 
-The entire application—including HTML, CSS, and JavaScript—is embedded inside **`data_analysis_app.py`**, making deployment trivial.
+The entire application—including HTML, CSS, and JavaScript—is embedded inside **`InsightPilot-AI-Agent.ipynb`**, making deployment trivial.
 
 ---
 
@@ -53,8 +53,7 @@ The entire application—including HTML, CSS, and JavaScript—is embedded insid
 ### 1. **Download or Clone the Project**
 
 ```bash
-git clone [YOUR_REPO_URL]
-cd [YOUR_REPO_NAME]
+git clone https://github.com/kedarprathamesh/InsightPilot-AI-Agent
 ```
 
 Or download **`data_analysis_app.py`** directly.
@@ -98,7 +97,7 @@ $env:GEMINI_API_KEY="YOUR_API_KEY_HERE"
 ### 4. **Run the Application**
 
 ```bash
-python data_analysis_app.py
+jupyter nbconvert --to notebook --execute InsightPilot-AI-Agent.ipynb
 ```
 
 Visit in your browser:
@@ -135,7 +134,7 @@ http://127.0.0.1:5000
 This project is intentionally simple:
 
 ```
-data_analysis_app.py   # Full Flask app + UI + Gemini logic in one file
+InsightPilot-AI-Agent.ipynb   # Full Flask app + UI + Gemini logic in one file
 ```
 
 No templates. No static directories. Fully self-contained.

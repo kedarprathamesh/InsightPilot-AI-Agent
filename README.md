@@ -140,33 +140,26 @@ InsightPilot-AI-Agent.ipynb   # Full Flask app + UI + Gemini logic in one file
 No templates. No static directories. Fully self-contained.
 
 ---
-Here are several **polished, professional caption options** you can choose from.
-Pick one, or I can tailor it to your branding style.
 
----
 ## 🖼️ Application Screenshot
 
 ### **✨ InsightPilot User Interface — Clean, Modern, and Analyst-Focused**
 
-```
 ![InsightPilot Screenshot](https://github.com/kedarprathamesh/InsightPilot-AI-Agent/blob/main/InsightPilot%20Screenshot.png)
-```
 
 ---
 
 ### **📊 Where Natural Language Meets Instant Analytics**
 
-```
 ![InsightPilot Screenshot](https://github.com/kedarprathamesh/InsightPilot-AI-Agent/blob/main/Insight%20Pilot%20Usability%20Assessment.png)
-```
 
 ---
 
 ### **🧠 Senior-Analyst Insights Delivered Through a Beautiful, Minimal UI**
 
-```
+
 ![InsightPilot Screenshot](https://github.com/kedarprathamesh/InsightPilot-AI-Agent/blob/main/InsightPilot%20KeyMetrics%2CEDA%20%26%20Insights.png)
-```
+
 
 ---
 
